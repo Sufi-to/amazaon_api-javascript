@@ -1,14 +1,13 @@
 {
   "name": "amazon_api",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sufi-to",
   "license": "ISC",
   "dependencies": {
     "@oclif/plugin-help": "^5.2.2",
@@ -18,5 +17,15 @@
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
     "@oclif/core@": "^1.26.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sufi-to/amazaon_api-javascript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sufi-to/amazaon_api-javascript/issues"
+  },
+  "homepage": "https://github.com/Sufi-to/amazaon_api-javascript#readme",
+  "description": ""
 }
